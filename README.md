@@ -4,6 +4,7 @@
 🧠 I'm currently expanding my knowledge in Mobile development(Flutter) & Frontend development(React.js,Next.js)<br>
 👩‍💻 I'm presently studying Applied Computer Science<br>
 
+###
 <div align="left"> <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJmMHFocnJxaGl6eDUwOGp6ZHdkeHIwcG5pdjF5bjJpeGtsYndyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yYSSBtDgbbRzq/giphy.gif"  /> </div>
 <h2 align="left">🛠 I have knowledge of</h2>
 
